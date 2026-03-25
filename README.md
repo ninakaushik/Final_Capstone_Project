@@ -227,3 +227,4 @@ This project demonstrates that while short-term return prediction remains challe
 models under a unified framework, this analysis highlights the importance of validation, model selection, and realistic expectations when working with financial data.
 
 Link to Jupyter notebook: 
+https://github.com/ninakaushik/Final_Capstone_Project/blob/main/Final_Capstone_Project.ipynb
